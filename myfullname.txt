@@ -1,2 +1,5 @@
 echo"my name is"
 echo$(date)
+thought for the day
+"Be good do Good"
+"All Good things must come to an end"
